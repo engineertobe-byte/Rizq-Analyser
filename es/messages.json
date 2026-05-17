@@ -1,0 +1,13 @@
+{
+  "extensionName": { "message": "RizqFilter Universal" },
+  "description": { "message": "Cribado universal de empleos compatible con la Sharia basado en datos estructurados y fuentes auténticas." },
+  "btnText": { "message": "🔍 RizqFilter" },
+  "verdictHalal": { "message": "Veredicto Final: Halal" },
+  "verdictHaram": { "message": "Veredicto Final: Haram" },
+  "verdictShubha": { "message": "Veredicto Final: Shubha" },
+  "companyTitle": { "message": "🏢 Empresa" },
+  "roleTitle": { "message": "💼 Puesto" },
+  "evidenceTitle": { "message": "📜 Evidencias Auténticas" },
+  "warning": { "message": "⚠️ Advertencia: Este análisis se basa en la recuperación automatizada de datos. Los fallos religiosos finales deben provenir de eruditos cualificados. Consulte a un Mufti." },
+  "closeBtn": { "message": "Cerrar análisis" }
+}

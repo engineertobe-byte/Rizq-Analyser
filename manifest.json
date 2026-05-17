@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "RizqFilter Universal",
+  "version": "3.0",
+  "description": "Universal Sharia-compliant job screening based on structured data and authentic sources.",
+  "permissions": ["storage", "i18n"],
+  "host_permissions": [
+    "https://query.wikidata.org/*",
+    "https://api.quran.com/*",
+    "https://sunnah.com/*",
+    "<all_urls>"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["rule-engine.js", "wikidata-api.js", "quran-api.js", "sunnah-api.js", "content.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "default_locale": "en"
+}

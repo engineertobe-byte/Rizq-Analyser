@@ -1,0 +1,136 @@
+.rizq-filter-btn {
+    background-color: #0a66c2 !important;
+    color: white !important;
+    border: none !important;
+    padding: 8px 16px !important;
+    border-radius: 20px !important;
+    font-weight: 600 !important;
+    cursor: pointer !important;
+    margin-left: 12px !important;
+    font-size: 14px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    z-index: 2147483647 !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2) !important;
+}
+
+.rizq-modal-overlay {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    background: rgba(0,0,0,0.8) !important;
+    z-index: 2147483647 !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    backdrop-filter: blur(4px) !important;
+    font-family: 'Segoe UI', Tahoma, sans-serif !important;
+}
+
+.rizq-modal {
+    background: white !important;
+    width: 95% !important;
+    max-width: 580px !important;
+    max-height: 90vh !important;
+    border-radius: 16px !important;
+    overflow: hidden !important;
+    display: flex !important;
+    flex-direction: column !important;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.5) !important;
+}
+
+.rizq-modal-header { padding: 20px; text-align: center; }
+
+.rizq-verdict-banner {
+    padding: 15px !important;
+    border-radius: 12px !important;
+    font-size: 24px !important;
+    font-weight: 800 !important;
+    color: white !important;
+    margin-bottom: 20px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 10px !important;
+}
+
+.verdict-halal { background-color: #10b981 !important; }
+.verdict-haram { background-color: #ef4444 !important; }
+.verdict-shubha { background-color: #f59e0b !important; }
+
+.rizq-modal-body { padding: 0 25px 25px 25px; overflow-y: auto; color: #1f2937; }
+
+.rizq-section {
+    margin-bottom: 20px !important;
+    padding: 15px !important;
+    border-radius: 8px !important;
+    background: #f9fafb !important;
+}
+
+.section-company { border-left: 6px solid #9ca3af !important; }
+.section-role-halal { border-left: 6px solid #10b981 !important; }
+.section-role-haram { border-left: 6px solid #ef4444 !important; }
+.section-role-shubha { border-left: 6px solid #f59e0b !important; }
+
+.rizq-section-title {
+    font-weight: 700 !important;
+    font-size: 16px !important;
+    margin-bottom: 10px !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+}
+
+.rizq-text-en {
+    font-style: italic !important;
+    color: #4b5563 !important;
+    margin-bottom: 12px !important;
+    display: block !important;
+    line-height: 1.5 !important;
+}
+
+.rizq-text-ar {
+    font-family: 'Traditional Arabic', 'Amiri', serif !important;
+    font-size: 22px !important;
+    direction: rtl !important;
+    text-align: right !important;
+    display: block !important;
+    margin-bottom: 12px !important;
+    line-height: 1.8 !important;
+}
+
+.rizq-source {
+    font-size: 12px !important;
+    background: #fef3c7 !important;
+    color: #92400e !important;
+    padding: 2px 8px !important;
+    border-radius: 4px !important;
+    font-weight: 600 !important;
+    display: inline-block !important;
+}
+
+.rizq-warning-box {
+    background-color: #fff7ed !important;
+    border: 1px solid #ffedd5 !important;
+    padding: 15px !important;
+    border-radius: 10px !important;
+    font-size: 13px !important;
+    color: #9a3412 !important;
+    margin-top: 20px !important;
+}
+
+.rizq-close-btn {
+    width: 100% !important;
+    padding: 15px !important;
+    background-color: #0a66c2 !important;
+    color: white !important;
+    border: none !important;
+    font-size: 16px !important;
+    font-weight: bold !important;
+    cursor: pointer !important;
+    border-bottom-left-radius: 16px !important;
+    border-bottom-right-radius: 16px !important;
+}

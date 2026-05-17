@@ -1,0 +1,13 @@
+{
+  "extensionName": { "message": "RizqFilter Universal" },
+  "description": { "message": "Universal Sharia-compliant job screening based on structured data and authentic sources." },
+  "btnText": { "message": "🔍 RizqFilter" },
+  "verdictHalal": { "message": "Final Verdict: Halal" },
+  "verdictHaram": { "message": "Final Verdict: Haram" },
+  "verdictShubha": { "message": "Final Verdict: Shubha" },
+  "companyTitle": { "message": "🏢 Company" },
+  "roleTitle": { "message": "💼 Role" },
+  "evidenceTitle": { "message": "📜 Authentic Evidence" },
+  "warning": { "message": "⚠️ Disclaimer: This analysis is based on automated data retrieval. Final religious rulings must come from qualified Islamic scholars. Always consult a Mufti or certified Sharia board for definitive guidance." },
+  "closeBtn": { "message": "Close Analysis" }
+}

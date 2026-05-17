@@ -1,0 +1,13 @@
+{
+  "extensionName": { "message": "RizqFilter Universal" },
+  "description": { "message": "Şeriat uyumlu evrensel iş tarama aracı." },
+  "btnText": { "message": "🔍 RizqFilter" },
+  "verdictHalal": { "message": "Sonuç: Helal" },
+  "verdictHaram": { "message": "Sonuç: Haram" },
+  "verdictShubha": { "message": "Sonuç: Şüpheli" },
+  "companyTitle": { "message": "🏢 Şirket" },
+  "roleTitle": { "message": "💼 Rol" },
+  "evidenceTitle": { "message": "📜 Sahih Kanıtlar" },
+  "warning": { "message": "⚠️ Uyarı: Bu analiz otomatik veri toplamaya dayanmaktadır. Kesin dini hükümler için lütfen bir müftüye danışın." },
+  "closeBtn": { "message": "Analizi Kapat" }
+}

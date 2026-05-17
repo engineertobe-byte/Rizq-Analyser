@@ -1,0 +1,13 @@
+{
+  "extensionName": { "message": "RizqFilter Universal" },
+  "description": { "message": " la universal sharia-compliant job screening" },
+  "btnText": { "message": "🔍 RizqFilter" },
+  "verdictHalal": { "message": "Final Verdict: Halal" },
+  "verdictHaram": { "message": "Final Verdict: Haram" },
+  "verdictShubha": { "message": "Final Verdict: Shubha" },
+  "companyTitle": { "message": "🏢 Company" },
+  "roleTitle": { "message": "💼 Role" },
+  "evidenceTitle": { "message": "📜 Authentic Evidence" },
+  "warning": { "message": "⚠️ Warning: AI-generated. Consult a scholar." },
+  "closeBtn": { "message": "Close Analysis" }
+}

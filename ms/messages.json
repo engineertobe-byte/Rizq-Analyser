@@ -1,0 +1,13 @@
+{
+  "extensionName": { "message": "RizqFilter Universal" },
+  "description": { "message": "Penyaringan pekerjaan universal sesuai Syariah" },
+  "btnText": { "message": "🔍 RizqFilter" },
+  "verdictHalal": { "message": "Keputusan Akhir: Halal" },
+  "verdictHaram": { "message": "Keputusan Akhir: Haram" },
+  "verdictShubha": { "message": "Keputusan Akhir: Shubha" },
+  "companyTitle": { "message": "🏢 Syarikat" },
+  "roleTitle": { "message": "💼 Peranan" },
+  "evidenceTitle": { "message": "📜 Bukti Autentik" },
+  "warning": { "message": "⚠️ Peringatan: Analisis ini berdasarkan pengambilan data automatik. Rujukan agama akhir mestilah daripada ulama yang berkelayakan." },
+  "closeBtn": { "message": "Tutup Analisis" }
+}
